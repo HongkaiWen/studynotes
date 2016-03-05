@@ -19,6 +19,10 @@
 
 ![](load-uptime.jpg)
 
+![](load-top.jpg)
+
+![](load-dstat.jpg)
+
 
 
 
