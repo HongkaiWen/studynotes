@@ -18,7 +18,7 @@
  
 查看方法：uptime\top\dstat
 
-![](load-uptime.jpg)
+![](/images/monitor/load-uptime.jpg)
 
 ![](load-top.jpg)
 
