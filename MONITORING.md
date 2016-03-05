@@ -16,6 +16,9 @@
 判断条件：如果load不大于3，系统负载正常；大于5则负载过高。
  
 查看方法：uptime\top\dstat
+
+uptime
+
  
  
 
