@@ -20,9 +20,9 @@
 
 ![](/images/monitor/load-uptime.jpg)
 
-![](load-top.jpg)
+![](/images/monitor/load-top.jpg)
 
-![](load-dstat.jpg)
+![](/images/monitor/load-dstat.jpg)
 
 
 
