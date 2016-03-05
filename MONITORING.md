@@ -17,7 +17,8 @@
  
 查看方法：uptime\top\dstat
 
-uptime
+![](load-uptime.jpg)
+
 
  
  
